@@ -1,7 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
+/dist/gfgsouthfl-static-webapp/server
 /tmp
 /out-tsc
 # Only exists if Bazel was run
@@ -39,7 +39,10 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+gitcommit.bat
+nggenerate.bat
 
 # System Files
 .DS_Store
 Thumbs.db
+

@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme" : "Default Dark+",
+    "editor.detectIndentation" : true,
+    "git.ignoredRepositories": ["dist", ".vscode"]
+}
